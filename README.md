@@ -26,12 +26,12 @@ The students will:
 
 |     #           | Topic                          | Instructor(s)                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Week 1 | Introduction | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)| 30.10.2023 18:00|
-| Week 2 | Primitive Data Types and Control Flow | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)| 06.11.2023 18:00|
-| Week 3 | Containers, Iterators and Generators | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  13.11.2023 18:00|
-| Week 4 | Functions and File I/O | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  20.11.2023 18:00|
-| Week 5 | Object Oriented Programming | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  27.11.2023 18:00|
-| Week 6 | Wrap-up | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  04.12.2023 18:00|
+| Week 1 | Introduction | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*İsmet Arca Erdoğar*](https://github.com/arcaerdogar)| 30.10.2023 18:00|
+| Week 2 | Primitive Data Types and Control Flow | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*İsmet Arca Erdoğar*](https://github.com/arcaerdogar)| 06.11.2023 18:00|
+| Week 3 | Containers, Iterators and Generators | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*İsmet Arca Erdoğar*](https://github.com/arcaerdogar)|  13.11.2023 18:00|
+| Week 4 | Functions and File I/O | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*İsmet Arca Erdoğar*](https://github.com/arcaerdogar)|  20.11.2023 18:00|
+| Week 5 | Object Oriented Programming | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*İsmet Arca Erdoğar*](https://github.com/arcaerdogar)|  27.11.2023 18:00|
+| Week 6 | Wrap-up | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*İsmet Arca Erdoğar*](https://github.com/arcaerdogar)|  04.12.2023 18:00|
 
 <p align="center"><b>Lectures will be around 2 hours</b></p>
 
