@@ -1,6 +1,6 @@
 # ITU ACM 2022-2023 Python Programming Course
 
-Monday 18.00 @ EEB5102
+Monday 18.00 @ EEB5104
 
 **The course will be in Turkish.**
 
@@ -26,13 +26,12 @@ The students will:
 
 |     #           | Topic                          | Instructor(s)                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Week 1 | Introduction | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 10.10.2022 18:00|
-| Week 2 | Primitive Data Types and Control Flow | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 17.10.2021 18:00|
-| Week 3 | Containers, Iterators and Generators | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  24.10.2022 18:00|
-| Week 4 | Functions and File I/O | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  31.10.2022 18:00|
-| Term Break | Contest | |  07.11.2022 |
-| Week 5 | Object Oriented Programming | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  14.11.2021 18:00|
-| Week 6 | Wrap-up | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  21.11.2021 18:00|
+| Week 1 | Introduction | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)| 30.10.2023 18:00|
+| Week 2 | Primitive Data Types and Control Flow | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)| 06.11.2023 18:00|
+| Week 3 | Containers, Iterators and Generators | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  13.11.2023 18:00|
+| Week 4 | Functions and File I/O | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  20.11.2023 18:00|
+| Week 5 | Object Oriented Programming | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  27.11.2023 18:00|
+| Week 6 | Wrap-up | [*Rojen Arda Şeşen*](https://github.com/rojenarda) - [*Arce Erdoğar*](https://github.com/arcaerdogar)|  04.12.2023 18:00|
 
 <p align="center"><b>Lectures will be around 2 hours</b></p>
 
