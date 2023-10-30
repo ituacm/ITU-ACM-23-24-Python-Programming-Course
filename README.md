@@ -1,4 +1,4 @@
-# ITU ACM 2022-2023 Python Programming Course
+# ITU ACM 2023-2024 Python Programming Course
 
 Monday 18.00 @ EEB5104
 
